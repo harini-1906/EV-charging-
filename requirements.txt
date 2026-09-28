@@ -1,0 +1,3 @@
+# requirements.txt
+# Dependencies for the IoT EV Charging Station Monitoring System.
+Flask==3.0.3
